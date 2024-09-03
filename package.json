@@ -1,12 +1,12 @@
 {
-  "name": "@rabisco/eslint-config",
+  "name": "@camim/eslint-config",
   "version": "1.0.2",
   "private": false,
   "description": "Configuração eslint com prettier",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/guidocerqueira/eslint-config-rabisco.git"
+    "url": "git+https://github.com/camim-apps/eslint-camim.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
